@@ -1,0 +1,12 @@
+{
+  "name": "tailwind-trader-api",
+  "version": "1.0.0",
+  "description": "API HTTP untuk mengelola item dari database Tailwind Traders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["api", "database"],
+  "author": "Sam",
+  "license": "ISC"
+}
